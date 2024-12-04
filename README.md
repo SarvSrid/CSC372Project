@@ -24,7 +24,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/SarvSrid/SarvSrid.github.io.git>
+   git clone <https://github.com/SarvSrid/CSC372Project.git>
    cd project-b
 
 ### Database name
