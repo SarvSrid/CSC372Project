@@ -27,18 +27,26 @@
    git clone <https://github.com/SarvSrid/CSC372Project.git>
    cd project-b
 
+### Sign-in
+- testuser@example.com
+- password123
+
 ### Database name
 - pixel_art.db
 
-###Testing JSON files
+### Testing JSON files
 - test.json
+
+### API 
+- Unsplash API for calling images to post on products page
+- API is not visible to the public and protected
 
 ### Running server commands
 - nodemon server.js
 - npm start
 
 ### How to begin
-- When loading the localhost server, click the signin option first in the navigation bar.
+- When loading the localhost server, click the signin option first in the navigation bar. (Reference the sign-in section above)
 - You will not be able to see all the products until you click on the signin option first.
 - once signed in, you will be able to see the products and interact with the website.
 - There is an option in the navigation bar to go to the admin page called "Admin" and
